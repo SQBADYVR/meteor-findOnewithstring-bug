@@ -15,6 +15,9 @@ This line results in an exception being thrown by Deps recompute--TypeError:  Ob
 
 I have walked through the code to collection.js line 229 and all the variables appear okay until this call executes.  Then the console throws the exceptions shown below.
 
+I am able to execute the identical transaction from the console with no problem.
+
+
 THe console shows the following:
 
 into function nameorEmail manageAccount.js?55e3f3c485bf010bd05bd80708685586e7640a69:58
